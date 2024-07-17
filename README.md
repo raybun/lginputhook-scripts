@@ -20,3 +20,6 @@ set to _execute_ and mapped to [button code 399](https://gist.github.com/Simon34
 - energysavingswitcher.sh - cycles between auto, low, mid, max screen energy saving modes
 - backlightswitcher.sh - goes through backlight intensity in increments of 10 (round-robins at 100)
 - eyecomfortswitcher.sh - toggles eye comfort mode (white balance shift to warmer colours for night-time)
+
+## API reference
+[webOS open api reference](https://www.webosose.org/docs/reference/ls2-api/com-webos-service-settings/#getsystemsettings)
