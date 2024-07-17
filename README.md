@@ -7,6 +7,7 @@ rooted lg webos tv, able to install homebrew
 
 ## how to use
 - add to e.g. /home/root or wherever you can/want to host your input scripts
+- make sure the script is marked as executable (chmod +x /path/to/script)
 - tell `lginputhook` to _execute_ a a script, giving it the full path
 
 ## example
